@@ -37,7 +37,7 @@ It will not affect your design and it will display as a floating icons. It will 
 
 == Screenshots ==
 
-1.Floating share buttons will display on your website left side bar
+1. Floating share buttons will display on your website left side bar
 
 == Changelog ==
 
