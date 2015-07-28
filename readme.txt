@@ -36,7 +36,7 @@ This plugin adds all social media network's share button. This won't affect your
 It will not affect your design and it will display as a floating icons. It will display on the left side of your website.
 
 == Screenshots ==
-screenshot.jpg
+assets/screenshot.jpg
 
 == Changelog ==
 
