@@ -13,6 +13,7 @@ Add all social media network's share button.
 == Description ==
 
 This plugin adds all social media network's share button. This won't affect your current design and it never affects the speed of your website. It is pretty small and fast loading script. It will display as <strong>floating share buttons</strong>. You don't need to add any script or do any thing. Just install the plugin and refresh your website. You will see the floating share buttons.
+Softshare provides all social media sharing option including facebook, twitter, linkedin, google+, Tumblr, Digg, Reddit, Gmail etc.
 
 = Main Features: =
 
@@ -25,8 +26,8 @@ This plugin adds all social media network's share button. This won't affect your
 
 == Installation ==
 
-1) Download from the plugin directory and upload it in your  `/wp-content/plugins/` directory
-2) Activate the plugin through the 'Plugins' menu in WordPress
+1. Download from the plugin directory.Extract it and upload it in your  `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
 == Frequently Asked Questions ==
@@ -38,6 +39,7 @@ It will not affect your design and it will display as a floating icons. It will 
 == Screenshots ==
 
 1. Floating share buttons will display on left side area of your website
+2. Provides all social media sharing option
 
 == Changelog ==
 
